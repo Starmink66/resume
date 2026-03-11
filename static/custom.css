@@ -1,0 +1,11 @@
+body {
+    background-color: #f0f8ff;
+    font-family:'Times New Roman', Times, serif;
+}
+.profile-photo {
+  width: 150px;
+  height: 150px;
+}
+.col-md-6{
+  background-color: #f9f7f0;
+}
